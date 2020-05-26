@@ -24,14 +24,9 @@ Seattle_Airbnb_DataExploration.ipynb - ipython notebook
 
 Python Packages used:
 ---------------------
-Numpy
-Pandas
-Matplotlib
-Seaborn
-statsmodels
-Sklearn
+Numpy, Pandas, Matplotlib, Seaborn, statsmodels, Sklearn
 
-This project is executed in a Jupyter Notebook with the help of below ipython notebook: 
+This project is developed using Jupyter Notebook and the below given ipython notebook will get it started: 
 Airbnb Seattle data analysis.ipynb
 
 Acknowledgements and Licensing
