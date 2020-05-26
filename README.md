@@ -20,8 +20,8 @@ b) **Data Files**
 
 ## How to use
 
-git clone https://github.com/sftengg/airbnb_seattle_datascience.git
-cd airbnd_seattle_datascience
+    git clone https://github.com/sftengg/airbnb_seattle_datascience.git
+    cd airbnd_seattle_datascience
 
 ## Python Packages needed to execute
 
